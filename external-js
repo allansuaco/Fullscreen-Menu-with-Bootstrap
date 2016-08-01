@@ -1,0 +1,5 @@
+http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js
+https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js
+
+Note:
+-place this at the end of the document before </body>
